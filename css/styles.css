@@ -41,7 +41,7 @@ body {
         display: flex;
         align-items: center;
     }
-    .logo {
+    .logo-first {
         color:#4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -49,20 +49,10 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    padding-top: 25.5px;
-    padding-bottom: 25.5px;
     margin-right: 76px;
     }
     .logo-part-first{
         color:  #2E2F42;
-        font-family: Raleway, sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        padding-top: 25.5px;
-        padding-bottom: 25.5px;
     }
     .nav-list {
         display: flex;
@@ -289,6 +279,7 @@ body {
     display: inline-block;
     margin-bottom: 16px;
     }
+
     .logo-part {
         color:  #F4F4FD;
     font-size: 18px;
